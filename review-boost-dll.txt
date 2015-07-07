@@ -1,0 +1,4 @@
+
+
+1. a link to "#include "../tutorial_common/plugin_api.hpp"" in examples would help
+
